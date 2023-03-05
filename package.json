@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-array-invgamma",
-  "version": null,
+  "version": "0.0.0",
   "description": "Create an array containing pseudorandom numbers drawn from an inverse gamma distribution.",
   "license": "Apache-2.0",
   "author": {
