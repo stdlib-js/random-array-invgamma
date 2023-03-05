@@ -31,13 +31,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-invgamma@deno/mod.js';
+import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-invgamma@v0.0.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-invgamma@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-invgamma@v0.0.0-deno/mod.js';
 ```
 
 #### invgamma( len, alpha, beta\[, options] )
@@ -304,7 +304,7 @@ var sz = random.byteLength;
 
 ```javascript
 import logEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each@deno/mod.js';
-import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-invgamma@deno/mod.js';
+import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-invgamma@v0.0.0-deno/mod.js';
 
 // Create a function for generating random arrays originating from the same state:
 var random = invgamma.factory( 2.0, 5.0, {
