@@ -391,6 +391,7 @@ logEach( '%f', x4 );
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/random-invgamma`][@stdlib/random/invgamma]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from an inverse gamma distribution.</span>
 -   <span class="package-name">[`@stdlib/random-base/invgamma`][@stdlib/random/base/invgamma]</span><span class="delimiter">: </span><span class="description">inverse gamma distributed pseudorandom numbers.</span>
 -   <span class="package-name">[`@stdlib/random-strided/invgamma`][@stdlib/random/strided/invgamma]</span><span class="delimiter">: </span><span class="description">fill a strided array with pseudorandom numbers drawn from an inverse gamma distribution.</span>
 
@@ -479,6 +480,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
 
 <!-- <related-links> -->
+
+[@stdlib/random/invgamma]: https://github.com/stdlib-js/random-invgamma
 
 [@stdlib/random/strided/invgamma]: https://github.com/stdlib-js/random-strided-invgamma
 
